@@ -3,18 +3,11 @@ NIM    :F1D02310047
 
 <br>Berikut Tampilan Tugas Web Saya
 <br>
-![Image]((https://github.com/unproduktif/pw25-minggu7-crud/blob/main/tampilan_web/Screenshot%20(210).png))
+![Image](https://github.com/unproduktif/pw25-minggu7-crud/blob/dccbcd4a72770574215c884511d80700b75081e7/tampilan_web/Screenshot%20(210).png)
 <br>
-![Image](https://github.com/user-attachments/assets/6d13dadb-eda5-4040-86e8-e021d89e1c3d)
+![Image](https://github.com/unproduktif/pw25-minggu7-crud/blob/dccbcd4a72770574215c884511d80700b75081e7/tampilan_web/Screenshot%20(211).png)
 <br>
-![Image](https://github.com/user-attachments/assets/e0160755-537b-47a7-9b2f-6e831556053e)
+![Image](https://github.com/unproduktif/pw25-minggu7-crud/blob/dccbcd4a72770574215c884511d80700b75081e7/tampilan_web/Screenshot%20(212).png)
 <br>
-![Image](https://github.com/user-attachments/assets/1498157f-4b06-43dc-be25-efdbdabbc1f7)
-<br>
-![Image](https://github.com/user-attachments/assets/5c42e374-dc3f-4262-aa29-22710f070b93)
-<br>
-![Image](https://github.com/user-attachments/assets/a27c3eb4-f7ec-4aef-8037-160ea575f44a)
-<br>
-![Image](https://github.com/user-attachments/assets/4774d9ad-8120-4c9b-9798-ba760505195b)
-<br>
-![Image](https://github.com/user-attachments/assets/f39c74ee-a123-4f7b-aa15-2c7c080bbe01)
+![Image](https://github.com/unproduktif/pw25-minggu7-crud/blob/dccbcd4a72770574215c884511d80700b75081e7/tampilan_web/Screenshot%20(212).png)
+
