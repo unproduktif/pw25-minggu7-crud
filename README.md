@@ -3,7 +3,7 @@ NIM    :F1D02310047
 
 <br>Berikut Tampilan Tugas Web Saya
 <br>
-![Image]([https://github.com/user-attachments/assets/f8071d5c-7ef1-421a-b5d8-f2a1e0353107](https://github.com/unproduktif/pw25-minggu7-crud/blob/main/tampilan_web/Screenshot%20(210).png))
+![Image]((https://github.com/unproduktif/pw25-minggu7-crud/blob/main/tampilan_web/Screenshot%20(210).png))
 <br>
 ![Image](https://github.com/user-attachments/assets/6d13dadb-eda5-4040-86e8-e021d89e1c3d)
 <br>
